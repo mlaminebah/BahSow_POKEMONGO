@@ -13,3 +13,5 @@ Nous avons implementé quelques unes des fonctionnalités du pokemongo :
   <li>Capturer un pokemon</li>
  </ul>
 
+---
+Vidéo de démonstration et qui montre comment fonctionne notre programme :  
