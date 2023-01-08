@@ -16,3 +16,5 @@ Nous avons implementé quelques unes des fonctionnalités du pokemongo :
 ---
 Vidéo de démonstration et qui montre comment fonctionne notre programme :    
 [![Watch the video]](https://youtu.be/exYGaH9Jq5o)
+--- 
+Si vous rencontrez des difficultés à éxécuter le code nous vous prions de chagner la clé de l'API google Map qui est utilisé dans Manifest
