@@ -14,4 +14,5 @@ Nous avons implementé quelques unes des fonctionnalités du pokemongo :
  </ul>
 
 ---
-Vidéo de démonstration et qui montre comment fonctionne notre programme :  
+Vidéo de démonstration et qui montre comment fonctionne notre programme :    
+<video src="https://youtu.be/exYGaH9Jq5o" />
