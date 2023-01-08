@@ -15,4 +15,4 @@ Nous avons implementé quelques unes des fonctionnalités du pokemongo :
 
 ---
 Vidéo de démonstration et qui montre comment fonctionne notre programme :    
-<video src="https://youtu.be/exYGaH9Jq5o" />
+<video src="[(https://youtu.be/exYGaH9Jq5o)]" width="640" height="480">
